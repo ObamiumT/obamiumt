@@ -2,7 +2,7 @@
 ### making the world worse since 2023
 
 ## Skills
-I'm not good of a programmer, I can make very basic terminal applications in Python.
+I'm not good of a programmer, ~~I can make very basic terminal applications in Python.~~ I actually **am kind of** skilled with PyQt5!
 I'm pretty experienced in the CSS and HTML (markup, not programming) languages.
 Looking forward at TypeScript since I despisde JavaScr*pt
 
